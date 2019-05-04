@@ -24,7 +24,7 @@ function whileLoop(x) {
 }
 
 //doWhileLoop
-function doWhileLoop() {
+function doWhileLoop(num) {
   var i = 0;
   
   function incrementVariable() {
